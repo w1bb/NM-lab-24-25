@@ -36,7 +36,9 @@ Dacă alegeți această cale, trebuie să:
 
 Punctajul se va calcula folosind formula:
 
-$$P_{max} \cdot {proc}_{result} \cdot {proc}_{present}$$
+```math
+P_{max} \cdot {proc}_{result} \cdot {proc}_{present}
+```
 
 
 ### Varianta 2 - Lucrări de laborator

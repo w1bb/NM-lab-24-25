@@ -34,7 +34,7 @@ Dacă alegeți această cale, trebuie să:
 
    Vi se va acorda astfel un punctaj procentual (0%..100%) în funcție de cât de bună a fost prezentarea voastră (${proc}_{present}$).
 
-Punctajul se va calcula folosind formula: $P_{max} \cdot {proc}_{result} \cdot {proc}_{present}$.
+Punctajul se va calcula folosind formula: $P_{max} \cdot {proc}_{result} \cdot {proc}_{present}$
 
 
 ### Varianta 2 - Lucrări de laborator

@@ -3,3 +3,6 @@
 **/.local/*
 **/.ipynb_checkpoints/*
 **/old
+
+**/*-complet.ipynb
+.bash_history

@@ -38,3 +38,6 @@ Pașii care urmează vor fi rulați **înaintea fiecărui laborator**:
 
 3. Ar trebui, de asemenea, să vedeți în partea stângă toate folderele din repo-ul de laborator.
 
+## [01-octave](./01-octave/): Introducere în Octave
+
+Urmați instrucțiunile din [fișierul aferent laboratorului](./01-octave/lab-01.ipynb).

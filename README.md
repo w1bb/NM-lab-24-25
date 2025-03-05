@@ -3,6 +3,7 @@
 ## Laboratoare
 
 - [**lab-01**](./lab-01/) - Setup. Introducere în Octave.
+- [**lab-02**](./lab-02/) - Factorizarea LU
 
 ## Punctare
 

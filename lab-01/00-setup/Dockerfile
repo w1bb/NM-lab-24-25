@@ -1,4 +1,4 @@
-ARG BASE_CONTAINER=quay.io/jupyter/minimal-notebook:latest
+ARG BASE_CONTAINER=quay.io/jupyter/minimal-notebook:python-3.11
 FROM $BASE_CONTAINER
 
 # Install octave
